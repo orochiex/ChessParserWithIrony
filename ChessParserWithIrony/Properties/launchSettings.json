@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChessParserWithIrony": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
